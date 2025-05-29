@@ -1,6 +1,6 @@
 import './App.css'
 import MenuBox from './component/MenuBox'
-import Count from './Count' 
+import Count from './component/Count' 
 /* 
   1. Component(컴포넌트)
     - UI를 표현하는 최소 단위
