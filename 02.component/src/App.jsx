@@ -1,6 +1,7 @@
 import './App.css'
 import MenuBox from './component/MenuBox'
 import Count from './component/Count' 
+import LikeCount from './component/LikeCount'
 /* 
   1. Component(컴포넌트)
     - UI를 표현하는 최소 단위
@@ -47,7 +48,8 @@ function App() {
     
       {/* state 실습 */}
 
-      <Count/>
+      {/* <Count/> */}
+      <LikeCount/>
      
     </>
   )
